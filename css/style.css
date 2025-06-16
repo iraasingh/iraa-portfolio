@@ -3,7 +3,7 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background: olivedrab; /* Light neutral background */
+  background: rgb(213, 242, 154); /* Light neutral background */
   color: #333;
   line-height: 1.6;
 }
@@ -39,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #f4a261; /* Warm accent color */
+  background-color: #f4b480; /* Warm accent color */
   transform: scale(1.1);
 }
 
@@ -48,7 +48,7 @@ main {
   padding: 2rem;
   max-width: 900px;
   margin: auto;
-  background: orange; /* Orange background for content */
+  background: rgb(251, 194, 89); /* Orange background for content */
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   animation: slideIn 1s ease-out;
